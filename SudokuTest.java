@@ -6,7 +6,7 @@ package edu.ics211.h09;
  * @author Biagioni, Edoardo and Cam Moore
  *     date August 5, 2016
  *     bugs none
- *     Edited By Chak Hon Lam
+ *     
  */
 public class SudokuTest {
 
